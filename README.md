@@ -1,1 +1,1 @@
-# portfolio_minjae
+# minjae_portfolio
